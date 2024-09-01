@@ -1,18 +1,18 @@
 #Tihs file defines all categories that live within a parent category
 
 
-resume:
-  name: Resume preparation
-  parent-category: services
-  parent-category-name: Services
+subcategory-one:
+  name: Resume Preparation
+  parent-category: using-subcategories
+  parent-category-name: Using Subcategories
   description: This is your first subcategory!
-linkedin:
-  name: LinkedIn Profile Tuning
-  parent-category: services
-  parent-category-name: Services
+subcategory-two:
+  name: LinkedIn Profile Optimization
+  parent-category: using-subcategories
+  parent-category-name: Using Subcategories
   description: This is your second subcategory!
-interview:
-  name: Minimum Interview guarantee
-  parent-category: services
-  parent-category-name: Services
+subcategory-three:
+  name: Minimum Interview Gurantee
+  parent-category: using-subcategories
+  parent-category-name: Using Subcategories
   description: This is your third subcategory!

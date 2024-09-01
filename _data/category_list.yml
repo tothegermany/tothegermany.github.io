@@ -1,12 +1,12 @@
 #This file defines all the categories you are using
 
 
-services:
+using-subcategories:
   name: Services
-  description: Our Services!
-about:
+  description: Learn to use subcategories!
+using-odin:
   name: About Us
   description: Welcome to Odin, time to get started
-contact:
+customizing-odin:
   name: Contact Us
   description: Welcome to Odin, time to get started
