@@ -4,15 +4,15 @@
 resume:
   name: Resume preparation
   parent-category: services
-  parent-category-name: services
+  parent-category-name: Services
   description: This is your first subcategory!
 linkedin:
   name: LinkedIn Profile Tuning
   parent-category: services
-  parent-category-name: services
+  parent-category-name: Services
   description: This is your second subcategory!
 interview:
   name: Minimum Interview guarantee
   parent-category: services
-  parent-category-name: services
+  parent-category-name: Services
   description: This is your third subcategory!

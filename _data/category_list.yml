@@ -2,10 +2,10 @@
 
 
 services:
-  name: services
+  name: Services
   description: Our Services!
 aboutus:
-  name: About ToTheGermany
+  name: About Us
   description: Welcome to Odin, time to get started
 contact:
   name: Contact Us
